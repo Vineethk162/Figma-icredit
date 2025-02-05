@@ -17,10 +17,9 @@ body {
     align-items: center;
     height: 100vh;
     background-image: url("background.png");
-    background-position: center;
-    background-size: cover;
+    background-position: 95% 75%;
     background-repeat: no-repeat;
-    background-size: 166% 100%;
+    background-size: 4790px 1920px;
 }
 
 .container {
