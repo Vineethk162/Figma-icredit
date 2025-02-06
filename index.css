@@ -113,9 +113,6 @@ input[type="password"] {
   cursor: pointer;
   border-radius: 5px;
   font-size: 16px;
-  position: absolute;
-  left: calc(50% - 85px);
-  bottom: 70px;
 }
 
 .login-btn:hover {
@@ -272,6 +269,9 @@ input[type="password"] {
     font-weight: 500;
     font-size: 17.6px;
     line-height: 21px;
+    position: absolute;
+  left: calc(50% - 85px);
+  bottom: 70px;
   }
   .chat-container {
     display: none;
