@@ -112,6 +112,9 @@ input[type="password"] {
   cursor: pointer;
   border-radius: 5px;
   font-size: 16px;
+  position: absolute;
+  left: calc(50% - 85px);
+  bottom: 70px;
 }
 
 .login-btn:hover {
